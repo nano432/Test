@@ -1,0 +1,8 @@
+{
+  "name": "スペースシューティングゲーム　(ver07011446)",
+  "description": "レトロでスリリングな宇宙空間を舞台にした、爽快2Dスクロールシューティングゲームです。豊富なパワーアップアイテムとローカルランキング機能を備え、PC・スマートフォンの両方に完全対応しています。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
